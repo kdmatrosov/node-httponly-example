@@ -19,7 +19,7 @@
   "homepage": "https://github.com/kdmatrosov/node-httponly-example#readme",
   "dependencies": {
     "cookie-parser": "^1.4.4",
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   },
   "devDependencies": {
     "nodemon": "^1.19.1"
